@@ -1,0 +1,15 @@
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\bin\Debug\net9.0\Bai1_3.exe
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\bin\Debug\net9.0\Bai1_3.deps.json
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\bin\Debug\net9.0\Bai1_3.runtimeconfig.json
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\bin\Debug\net9.0\Bai1_3.dll
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\bin\Debug\net9.0\Bai1_3.pdb
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\obj\Debug\net9.0\Bai1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\obj\Debug\net9.0\Bai1_3.AssemblyInfoInputs.cache
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\obj\Debug\net9.0\Bai1_3.AssemblyInfo.cs
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\obj\Debug\net9.0\Bai1_3.csproj.CoreCompileInputs.cache
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\obj\Debug\net9.0\Bai1_3.sourcelink.json
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\obj\Debug\net9.0\Bai1_3.dll
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\obj\Debug\net9.0\refint\Bai1_3.dll
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\obj\Debug\net9.0\Bai1_3.pdb
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\obj\Debug\net9.0\Bai1_3.genruntimeconfig.cache
+C:\CSharpThucHanh\CSharpThucHanh\CSharpTH02\Bai1_3\obj\Debug\net9.0\ref\Bai1_3.dll

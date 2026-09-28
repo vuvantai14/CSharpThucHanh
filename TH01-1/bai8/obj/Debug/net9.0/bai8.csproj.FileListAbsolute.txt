@@ -1,0 +1,15 @@
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\bin\Debug\net9.0\bai8.exe
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\bin\Debug\net9.0\bai8.deps.json
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\bin\Debug\net9.0\bai8.runtimeconfig.json
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\bin\Debug\net9.0\bai8.dll
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\bin\Debug\net9.0\bai8.pdb
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\obj\Debug\net9.0\bai8.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\obj\Debug\net9.0\bai8.AssemblyInfoInputs.cache
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\obj\Debug\net9.0\bai8.AssemblyInfo.cs
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\obj\Debug\net9.0\bai8.csproj.CoreCompileInputs.cache
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\obj\Debug\net9.0\bai8.sourcelink.json
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\obj\Debug\net9.0\bai8.dll
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\obj\Debug\net9.0\refint\bai8.dll
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\obj\Debug\net9.0\bai8.pdb
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\obj\Debug\net9.0\bai8.genruntimeconfig.cache
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai8\obj\Debug\net9.0\ref\bai8.dll

@@ -1,0 +1,15 @@
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\bin\Debug\net9.0\bai16.exe
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\bin\Debug\net9.0\bai16.deps.json
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\bin\Debug\net9.0\bai16.runtimeconfig.json
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\bin\Debug\net9.0\bai16.dll
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\bin\Debug\net9.0\bai16.pdb
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\obj\Debug\net9.0\bai16.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\obj\Debug\net9.0\bai16.AssemblyInfoInputs.cache
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\obj\Debug\net9.0\bai16.AssemblyInfo.cs
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\obj\Debug\net9.0\bai16.csproj.CoreCompileInputs.cache
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\obj\Debug\net9.0\bai16.sourcelink.json
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\obj\Debug\net9.0\bai16.dll
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\obj\Debug\net9.0\refint\bai16.dll
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\obj\Debug\net9.0\bai16.pdb
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\obj\Debug\net9.0\bai16.genruntimeconfig.cache
+C:\CSharpThucHanh\CSharpThucHanh\TH01-1\bai16\obj\Debug\net9.0\ref\bai16.dll
