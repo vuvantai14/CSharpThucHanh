@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpThucHanh\\CSharpThucHanh\\TH01-1\\Bai2\\bai2.csproj": {}
+    "C:\\CSharpThucHanh\\CSharpThucHanh\\TH01-1\\bai2\\bai2.csproj": {}
   },
   "projects": {
-    "C:\\CSharpThucHanh\\CSharpThucHanh\\TH01-1\\Bai2\\bai2.csproj": {
+    "C:\\CSharpThucHanh\\CSharpThucHanh\\TH01-1\\bai2\\bai2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpThucHanh\\CSharpThucHanh\\TH01-1\\Bai2\\bai2.csproj",
+        "projectUniqueName": "C:\\CSharpThucHanh\\CSharpThucHanh\\TH01-1\\bai2\\bai2.csproj",
         "projectName": "bai2",
-        "projectPath": "C:\\CSharpThucHanh\\CSharpThucHanh\\TH01-1\\Bai2\\bai2.csproj",
+        "projectPath": "C:\\CSharpThucHanh\\CSharpThucHanh\\TH01-1\\bai2\\bai2.csproj",
         "packagesPath": "C:\\Users\\Taidz\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpThucHanh\\CSharpThucHanh\\TH01-1\\Bai2\\obj\\",
+        "outputPath": "C:\\CSharpThucHanh\\CSharpThucHanh\\TH01-1\\bai2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
