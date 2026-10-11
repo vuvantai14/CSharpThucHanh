@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BaiMau01_ListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiMau02_ComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiMau03_TreeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiNangCao01_XuLyChuoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiTap01_UocSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiTap02_QuanLySinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiVeNha01_TuDien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiVeNha02_DanhSachSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiVeNha03_DanhBa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
