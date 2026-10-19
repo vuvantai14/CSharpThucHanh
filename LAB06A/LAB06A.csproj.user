@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="QLDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
